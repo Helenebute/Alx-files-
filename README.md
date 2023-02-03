@@ -1,2 +1,2 @@
-# Alx-files-
-I am a  student in Alx on full stack developer
+# alx-pre_course
+I'm now a ALX Student, this is my first repository as a full-stack 
